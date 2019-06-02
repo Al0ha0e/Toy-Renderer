@@ -1,0 +1,19 @@
+﻿  main.cpp
+d:\toy-renderer\src\vector.h(47): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\material.h(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\hitablelist.h(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\camera.h(11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\main.cpp(14): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\main.cpp(28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\main.cpp(28): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(46): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\main.cpp(46): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(47): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(51): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\toy-renderer\src\main.cpp(55): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(59): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(66): warning C4305: “参数”: 从“double”到“float”截断
+d:\toy-renderer\src\main.cpp(67): warning C4305: “参数”: 从“double”到“float”截断
+  Toy-Renderer.vcxproj -> D:\Toy-Renderer\Debug\Toy-Renderer.exe
